@@ -30,7 +30,7 @@ client = Suzuri.connect_token("#{YOUR_PRIVATE_API_KEY}")
 client.item.list
 ```
 
-For more information on the Suzuri Client, see our documentation: [http://www.rubydoc.info/github/kenchan/suzuri_client](http://www.rubydoc.info/github/kenchan/suzuri_client)
+For more information on the SUZURI Client, see our documentation: [http://www.rubydoc.info/github/kenchan/suzuri_client](http://www.rubydoc.info/github/kenchan/suzuri_client)
 
 ## Development
 
