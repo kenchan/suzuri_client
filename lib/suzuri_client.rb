@@ -7,6 +7,7 @@ require 'suzuri_client/version'
 #   https://github.com/interagent/heroics
 #
 
+require 'moneta'
 require 'heroics'
 require 'uri'
 
